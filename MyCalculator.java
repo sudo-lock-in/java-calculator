@@ -1,5 +1,3 @@
-//code explanation video (better): https://drive.google.com/file/d/1x3HQCzvVCu-7AVUiUkxB-pM6aQQCjcSf/view?usp=drive_link
-
 import java.util.Scanner;
 
 public class MyCalculator {
@@ -184,3 +182,4 @@ public class MyCalculator {
 	}
 }
 }
+
